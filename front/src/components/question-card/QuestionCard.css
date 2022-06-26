@@ -1,0 +1,12 @@
+.question-card {
+  font-size: larger;
+  margin: 1% 0
+}
+
+.question-data {
+  margin-left: 10px;
+  font-weight: bold;
+  font-style: italic;
+  color: black;
+  font-size: x-large;
+}
